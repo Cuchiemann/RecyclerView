@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Titulo">Titulo</string>
+    <string name="Contenido">Contenido</string>
+    <string name="alert_estado">Seguro que quieres cambiar el estado de la tarea?</string>
+    <string name="alert_borrar">¿Seguro que quieres borrarla?</string>
+</resources>

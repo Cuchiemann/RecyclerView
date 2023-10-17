@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">RecyclerView</string>
+    <string name="Titulo">Titulo</string>
+    <string name="Contenido">Contenido</string>
+    <string name="alert_estado">Seguro que quieres cambiar el estado de la tarea?</string>
+    <string name="alert_borrar">¿Seguro que quieres borrarla?</string>
+</resources>
